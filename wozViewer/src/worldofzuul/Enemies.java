@@ -12,7 +12,7 @@ package worldofzuul;
 public class Enemies extends Creatures {
     
     Enemies enemy;
-
+    //Pik og patter
     public Enemies(int level, int health, int attack, String lootable, String name, String faction) {
         super(level, health, attack, lootable, name, faction);
     }
